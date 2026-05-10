@@ -1,35 +1,133 @@
+```md
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167203498-225a03a5-49f4-4262-abe4-78da42559625.png" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mohamed%20Abd%20Emwola&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
-<h3>ABOUT ME</h3>
+<h1 align="center">Backend Developer</h1>
 
-I'm a versatile developer with experience in building web platforms. \
-I prioritize accessibility, performance, and writing secure, maintainable, and robust code. I also enjoy helping others and collaborating whenever possible. I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
+<p align="center">
+Passionate Backend Developer focused on building scalable, secure, and maintainable web applications using modern technologies.
+</p>
 
+---
 
+## 🚀 ABOUT ME
 
-<h3>EXPERIENCE</h3>
+- 💻 Backend Developer specialized in Python & Django
+- 🎓 Computer Science Student
+- ⚡ Interested in API Development, System Design, and Backend Architecture
+- 🐳 Learning and working with Docker & Microservices
+- 🌍 Interested in Remote Opportunities and Open Source
+- 📚 Continuously improving problem solving and software engineering skills
 
-I have experience working in both private companies and as a freelancer.
+---
 
-I've spent most of my time as a developer working with:
+## 🛠 TECH STACK
 
-- <img src="https://img.shields.io/badge/Python-white?labelColor=black" alt="Python"> <img src="https://img.shields.io/badge/-Django [parler / tenants] -- Flask -- Celery -- Unittests -- Typing-grey" alt="Django (parler, tenants), Flask, Celery, Unittests, Typing">
-- <img src="https://img.shields.io/badge/JavaScript-white?labelColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript -- Next.js -- Mongoose-grey" alt="TypeScript, Next.js, Mongoose">
+### Backend
+- Python
+- Django
+- Django REST Framework (DRF)
+- Flask
+- REST APIs
+- Authentication & JWT
+- Celery
 
-I also have experience with:
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
 
-- <img src="https://img.shields.io/badge/Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Tailwind CSS -- Lighthouse -- SPA development-grey" alt="Tailwind CSS, Lighthouse, SPA development">
-- <img src="https://img.shields.io/badge/Infrastructure-white?labelColor=black" alt="Infrastructure"> <img src="https://img.shields.io/badge/-Docker -- Microservices -- Unix Shell -- GCP -- Heroku -- CI/CD Pipelines-grey" alt="Docker, Microservices, Unix Shell, GCP, Heroku">
-- <img src="https://img.shields.io/badge/Persistence-white?labelColor=black" alt="Persistence"> <img src="https://img.shields.io/badge/-PostgreSQL -- MongoDB-grey" alt="PostgreSQL, MongoDB">
+### Databases
+- MySQL
+- SQLite
+- PostgreSQL
 
-<h3>MY FRIEND</h3>
-has a message for you...
+### DevOps & Tools
+- Docker
+- Git & GitHub
+- Linux / Ubuntu
+- Postman
+- VS Code
 
-<br>
-<br>
+---
+
+## 📌 PROJECTS
+
+### 🎓 Student Registration & Class Scheduling System
+A complete university management system for handling:
+- Student registration
+- Lecture scheduling
+- Group management
+- Hall distribution
+- Timetable organization
+
+Tech Used:
+`Python` `Django` `MySQL`
+
+---
+
+### 🏥 Medical Centers Management System
+Backend system for managing:
+- Doctors
+- Patients
+- Appointments
+- Medical records
+- Authentication APIs
+
+Tech Used:
+`Django REST Framework` `JWT` `SQLite`
+
+---
+
+### 🛒 Store Management System
+Management platform for:
+- Products
+- Orders
+- Customers
+- Inventory
+
+Tech Used:
+`Python` `Django` `MySQL`
+
+---
+
+### 🏜 Siwa Safari Booking System
+API-based booking system for safari trips including:
+- User Authentication
+- Booking APIs
+- Profile APIs
+- Tour management
+
+Tech Used:
+`Django REST Framework` `JWT` `Postman`
+
+---
+
+## 📈 CURRENTLY LEARNING
+
+- Advanced Django
+- Docker & Deployment
+- Clean Architecture
+- System Design
+- English Communication for Remote Work
+
+---
+
+## 🌐 CONNECT WITH ME
+
+- 💼 LinkedIn:
+  www.linkedin.com/in/mohamed-apd-almwola-aa77b9295
+
+- 📧 Email:
+  mohamedapdalmola12@gmail.com
+
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="Python fake tip: to improve the readability of your code, you can import __future__ as tomorrow">
+
+### ⚡ “First, solve the problem. Then, write the code.”
+
 </div>
-<br>
+```
