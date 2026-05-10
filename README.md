@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Mohamed%20Abd%20Emwola&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
@@ -9,7 +8,6 @@
 Passionate Backend Developer focused on building scalable, secure, and maintainable web applications using modern technologies.
 </p>
 
----
 
 ## 🚀 ABOUT ME
 
@@ -20,7 +18,7 @@ Passionate Backend Developer focused on building scalable, secure, and maintaina
 - 🌍 Interested in Remote Opportunities and Open Source
 - 📚 Continuously improving problem solving and software engineering skills
 
----
+
 
 ## 🛠 TECH STACK
 
@@ -91,7 +89,6 @@ Management platform for:
 Tech Used:
 `Python` `Django` `MySQL`
 
----
 
 ### 🏜 Siwa Safari Booking System
 API-based booking system for safari trips including:
@@ -103,7 +100,7 @@ API-based booking system for safari trips including:
 Tech Used:
 `Django REST Framework` `JWT` `Postman`
 
----
+
 
 ## 📈 CURRENTLY LEARNING
 
@@ -113,7 +110,7 @@ Tech Used:
 - System Design
 - English Communication for Remote Work
 
----
+ 
 
 ## 🌐 CONNECT WITH ME
 
@@ -123,11 +120,10 @@ Tech Used:
 - 📧 Email:
   mohamedapdalmola12@gmail.com
 
----
-
+ 
 <div align="center">
 
 ### ⚡ “First, solve the problem. Then, write the code.”
 
 </div>
-```
+ 
